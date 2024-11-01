@@ -1,6 +1,6 @@
 # Internet Speed Test GUI-Py
 
-![Speed Test GUI](https://via.placeholder.com/600x400.png?text=Speed+Test+GUI+Screenshot)
+![Total Downloads](https://img.shields.io/github/downloads/moxiu443/GUI_speed-test-py/total.svg)
 
 A simple and user-friendly Internet Speed Test application built using Python and Tkinter. This application allows you to easily measure your internet connection's download and upload speeds, as well as the ping time. 
 
